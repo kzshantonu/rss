@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <dateCreated>Sat, 11 Jun 2022 08:06:49 +0000</dateCreated>
+    <title>Tiny Tiny RSS Feed Export</title>
+  </head>
+  <body>
+    <outline text="hq">
+      <outline type="rss" text="Derek Sivers blog" xmlUrl="https://sive.rs/en.atom" htmlUrl="https://sive.rs/en.atom"/>
+      <outline type="rss" text="Noted.lol Links" xmlUrl="https://hosted.lol/guest/links/feed" htmlUrl="https://hosted.lol/guest/links/feed"/>
+      <outline type="rss" text="Noted.lol Lists" xmlUrl="https://hosted.lol/guest/lists/feed" htmlUrl="https://hosted.lol/guest/lists/feed"/>
+      <outline type="rss" text="The Crow" xmlUrl="https://thecrow.uk/feed.xml" htmlUrl="https://thecrow.uk/"/>
+      <outline type="rss" text="LinuxServer.io Blog" xmlUrl="https://www.linuxserver.io/blog.atom" htmlUrl="https://www.linuxserver.io/blog.atom"/>
+      <outline type="rss" text="Drew DeVault's blog" xmlUrl="https://drewdevault.com/blog/index.xml" htmlUrl="https://drewdevault.com"/>
+      <outline type="rss" text="Daring Fireball" xmlUrl="https://daringfireball.net/feeds/main" htmlUrl="https://daringfireball.net/"/>
+      <outline type="rss" text="Noted.lol" xmlUrl="https://noted.lol/rss" htmlUrl="https://noted.lol/"/>
+      <outline type="rss" text="Lon.TV Blog" xmlUrl="https://blog.lon.tv/feed/" htmlUrl="https://blog.lon.tv/"/>
+      <outline type="rss" text="Jeff Geerling's Blog" xmlUrl="https://www.jeffgeerling.com/blog.xml" htmlUrl="https://www.jeffgeerling.com/blog"/>
+      <outline type="rss" text="Daring Fireball Articles" xmlUrl="https://daringfireball.net/feeds/articles" htmlUrl="http://daringfireball.net/"/>
+      <outline type="rss" text="Libera Chat" xmlUrl="https://libera.chat/atom.xml" htmlUrl="https://libera.chat/"/>
+      <outline type="rss" text="マリウス" xmlUrl="https://xn--gckvb8fzb.com/index.xml" htmlUrl="https://xn--gckvb8fzb.com/"/>
+      <outline type="rss" text="ctrl.blog" xmlUrl="https://feed.ctrl.blog/latest.atom" htmlUrl="https://ctrl.blog"/>
+    </outline>
+    <outline text="security">
+      <outline type="rss" text="Hacker Noon" xmlUrl="https://hackernoon.com/feed" htmlUrl="https://hackernoon.com"/>
+      <outline type="rss" text="IntelTechniques Blog" xmlUrl="https://inteltechniques.com/blog/feed/" htmlUrl="https://inteltechniques.com/blog"/>
+      <outline type="rss" text="Dark Reading" xmlUrl="http://www.darkreading.com/rss/all.xml" htmlUrl="http://www.darkreading.com/"/>
+      <outline type="rss" text="Darknet - The Darkside" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="http://www.darknet.org.uk/"/>
+      <outline type="rss" text="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed/" htmlUrl="http://krebsonsecurity.com/"/>
+      <outline type="rss" text="Naked Security" xmlUrl="http://nakedsecurity.sophos.com/feed/" htmlUrl="https://nakedsecurity.sophos.com/"/>
+      <outline type="rss" text="Schneier on Security" xmlUrl="http://www.schneier.com/blog/index.rdf" htmlUrl="https://www.schneier.com/blog/"/>
+      <outline type="rss" text="The Register - Security" xmlUrl="http://www.theregister.co.uk/security/headlines.atom" htmlUrl="http://www.theregister.co.uk/security/"/>
+    </outline>
+    <outline text="tech">
+      <outline type="rss" text="Mashable" xmlUrl="http://feeds.mashable.com/Mashable" htmlUrl="https://mashable.com/feeds/rss/all"/>
+      <outline type="rss" text="ReadWrite" xmlUrl="https://readwrite.com/feed/" htmlUrl="https://readwrite.com"/>
+      <outline type="rss" text="BleepingComputer" xmlUrl="https://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
+      <outline type="rss" text="Digital Inspiration" xmlUrl="https://www.labnol.org/rss.xml" htmlUrl="https://www.labnol.org"/>
+      <outline type="rss" text="Liliputing" xmlUrl="https://feeds.feedburner.com/Liliputing" htmlUrl="https://liliputing.com"/>
+      <outline type="rss" text="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="http://arstechnica.com/"/>
+      <outline type="rss" text="GeekWire" xmlUrl="https://www.geekwire.com/feed/" htmlUrl="https://www.geekwire.com/"/>
+      <outline type="rss" text="Wired" xmlUrl="https://www.wired.com/feed" htmlUrl="https://www.wired.com/latest"/>
+      <outline type="rss" text="The Verge" xmlUrl="https://www.theverge.com/rss/full.xml" htmlUrl="https://www.theverge.com/"/>
+      <outline type="rss" text="The Next Web" xmlUrl="http://feeds2.feedburner.com/thenextweb" htmlUrl="https://thenextweb.com"/>
+      <outline type="rss" text="The Hacker News" xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="https://thehackernews.com/"/>
+      <outline type="rss" text="TechCrunch" xmlUrl="https://techcrunch.com/feed/" htmlUrl="https://techcrunch.com"/>
+      <outline type="rss" text="Android Police" xmlUrl="https://www.androidpolice.com/feed/" htmlUrl="https://www.androidpolice.com"/>
+      <outline type="rss" text="gHacks Technology News" xmlUrl="https://www.ghacks.net/feed/" htmlUrl="https://www.ghacks.net"/>
+    </outline>
+    <outline text="apple">
+      <outline type="rss" text="Macworld.com" xmlUrl="https://www.macworld.com/feed" htmlUrl="https://www.macworld.com"/>
+      <outline type="rss" text="Apple Newsroom" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss" htmlUrl="https://www.apple.com/newsroom/rss-feed.rss"/>
+      <outline type="rss" text="AppleInsider News" xmlUrl="https://appleinsider.com/rss/news" htmlUrl="https://appleinsider.com/rss/news"/>
+      <outline type="rss" text="MacRumors" xmlUrl="http://feeds.macrumors.com/macrumors-all" htmlUrl="https://www.macrumors.com"/>
+      <outline type="rss" text="Cult of Mac" xmlUrl="https://www.cultofmac.com/feed/" htmlUrl="https://www.cultofmac.com"/>
+    </outline>
+    <outline text="misc">
+      <outline type="rss" text="Boing Boing" xmlUrl="https://boingboing.net/feed" htmlUrl="https://boingboing.net"/>
+    </outline>
+    <outline text="social">
+      <outline type="rss" text="Lobsters" xmlUrl="https://lobste.rs/rss" htmlUrl="https://lobste.rs/"/>
+      <outline type="rss" text="Hacker News: Best Comments" xmlUrl="https://hnrss.org/bestcomments" htmlUrl="https://news.ycombinator.com/bestcomments"/>
+      <outline type="rss" text="Hacker News: Newest" xmlUrl="https://hnrss.org/newest" htmlUrl="https://news.ycombinator.com/newest"/>
+      <outline type="rss" text="Hacker News: Front Page" xmlUrl="https://hnrss.org/frontpage" htmlUrl="https://news.ycombinator.com/"/>
+      <outline type="rss" text="LowEndTalk" xmlUrl="https://morss.it/https://lowendtalk.com/" htmlUrl="https://lowendtalk.com/"/>
+      <outline type="rss" text="LowEndBox" xmlUrl="https://lowendbox.com/feed/" htmlUrl="https://lowendbox.com"/>
+    </outline>
+  </body>
+</opml>
